@@ -1,0 +1,3 @@
+#!/bin/bash
+
+node /opt/ANDRAX/javascript-obfuscator/bin/javascript-obfuscator "$@"
